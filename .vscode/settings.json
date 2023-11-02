@@ -1,0 +1,12 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "spellright.language": [],
+  "spellright.documentTypes": ["latex", "plaintext"],
+  "cSpell.enabled": false
+}

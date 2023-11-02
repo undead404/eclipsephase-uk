@@ -1,0 +1,9 @@
+[book]
+authors = ["Vitalii Perehonchuk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Фаза затемнення – Eclipse Phase українською"
+
+[output.html]
+git-repository-url = "https://github.com/undead404/eclipsephase-uk"
