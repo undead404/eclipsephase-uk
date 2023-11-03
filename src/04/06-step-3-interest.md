@@ -97,8 +97,6 @@
 
 ## Нетворкер
 
-You know how to engage and connect with people.
-
 Ви знаєте, як взаємодіяти та встановлювати контакти з людьми
 
 |                          |     |
@@ -110,7 +108,7 @@ You know how to engage and connect with people.
 
 ## Парамедик
 
-You have picked up some first aid training.
+Ви отримали трохи навчання з першої допомоги.
 
 |                         |     |
 | :---------------------- | --: |
