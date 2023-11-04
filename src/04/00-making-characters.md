@@ -99,3 +99,5 @@
 - [Біоморфи-поди](../04/23-pod-biomorphs.md)
 - [Біоморфи-піднесені](../04/24-uplift-biomorphs.md)
 - [Синтморфи](../04/25-synthmorphs.md)
+- [Інфоморфи](../04/26-infomorphs.md)
+- [Пакети обладнання](../04/27-gear-packages.md)

@@ -1,93 +1,93 @@
-# Infomorphs
+# Інфоморфи
 
-Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on [Infomorphs](../13/08-infomorphs.md).
-
-</blockquote>
-
-### Digimorph
-
-Digimorphs are bare-bones mind emulations, though customizable and widely used. By default, an ego that evacuates (or is forked from) a cyberbrain is run on a digimorph, unless another infomorph option is available.
-
-<blockquote class="indent stat-list">
-
-### Digimorph
-
-- **Cost:** 0&nbsp;MP • **Avail:** 100
-
----
-
-- **WT:** 5 • **DUR:** 25 • **DR:** 50
-- **Insight** 0, **Moxie** 0, **Vigor** 0, **Flex** 0
-
----
-
-- **Ware:** Mnemonics
-- **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
+Інфоморфи – це суто цифрові форми: вони не мають фізичного тіла. Це програмні стани розуму, на яких запускаються живі его, хоча вони можуть бути обмежені можливостями обладнання, що їх підтримує. Правила для інфоморфів можна знайти на сторінці [Інфоморфів](../13/08-infomorphs.md).
 
 </blockquote>
 
-### Ikon
+### Цифроморф
 
-Designed for online performers, media icons, and social networkers, this infomorph is coded to enhance charisma and social skills.
+Цифроморфи – це емуляції розуму без будь-яких додаткових можливостей, хоч і налаштовні та широко використовувані. Усталено его, що евакуюється (або брунькується) з кібермозку, запускається на цифроморфі, якщо немає іншого варіанту інфоморфа.
 
 <blockquote class="indent stat-list">
 
-### Ikon
+#### Цифроморф
 
-- **Cost:** 1&nbsp;MP • **Avail:** 100
-
----
-
-- **WT:** 6 • **DUR:** 30 • **DR:** 60
-- **Insight** 1, **Moxie** 3, **Vigor** 0, **Flex** 0
+- **Ціна**: 0&nbsp;ОМ • **Доступність**: 100
 
 ---
 
-- **Ware:** Copylock, Memory Lock, Mnemonics
-- **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
+- **ПР**: 5 • **МІЦ**: 25 • **ПС**: 50
+- **Прозір** 0, **Сміливість** 0, **Снага** 0, **Вуж** 0
+
+---
+
+- **Вироби**: Мнемоніка
+- **Риси морфа**: Цифрова швидкість, Екзотична морфологія (Рівень 3)
 
 </blockquote>
 
-### Agent
+### Ікона
 
-Popular with network security specialists, penetration testers, and hackers, this infomorph is optimized for infosec roles.
+Бувши розробленим для онлайн-виконавців, медіаідолів та інфлюенсерів, цей інфоморф закодований для підвищення харизми та соціальних навичок.
 
 <blockquote class="indent stat-list">
 
-### Agent
+#### Ікона
 
-- **Cost:** 2&nbsp;MP • **Avail:** 100
-
----
-
-- **WT:** 8 • **DUR:** 40 • **DR:** 80
-- **Insight** 4, **Moxie** 0, **Vigor** 0, **Flex** 0
+- **Ціна**: 1&nbsp;ОМ • **Доступність**: 100
 
 ---
 
-- **Ware:** Enhanced Security, E-Veil, Mnemonics
-- **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
+- **ПР**: 6 • **МІЦ**: 30 • **ПС**: 60
+- **Прозір** 1, **Сміливість** 3, **Снага** 0, **Вуж** 0
+
+---
+
+- **Вироби**: Блокування копіювання, Захист пам'яті, Мнемоніка
+- **Риси морфа**: Цифрова швидкість, Екзотична морфологія (Рівень 3)
 
 </blockquote>
 
-### Operator
+### Агент
 
-This infomorph is ideal for professions that involve drone remote operation, whether maintenance bot fleets, surveillance drones, or fighter craft and combat machines.
+Цей інфоморф, популярний серед фахівців з інформаційної безпеки, тестерів на проникнення та хакерів, оптимізований для ролей інфобезпеки.
 
 <blockquote class="indent stat-list">
 
-### Operator
+#### Агент
 
-- **Cost:** 2&nbsp;MP • **Avail:** 100
-
----
-
-- **WT:** 7 • **DUR:** 35 • **DR:** 70
-- **Insight** 3, **Moxie** 0, **Vigor** 0, **Flex** 1
+- **Ціна**: 2&nbsp;ОМ • **Доступність**: 100
 
 ---
 
-- **Ware:** Drone Rig, Mnemonics, Oracles
-- **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
+- **ПР**: 8 • **МІЦ**: 40 • **ПС**: 80
+- **Прозір** 4, **Сміливість** 0, **Снага** 0, **Вуж** 0
+
+---
+
+- **Вироби**: Покращений захист, Е-вуаль, Мнемоніка
+- **Риси морфа**: Цифрова швидкість, Екзотична морфологія (Рівень 3)
+
+</blockquote>
+
+### Оператор
+
+Цей інфоморф ідеальний для професій, що вимагають дистанційного керування дронами, чи то обслуговування флотів ботів, дронів стеження чи бойових машин.
+
+<blockquote class="indent stat-list">
+
+#### Оператор
+
+- **Ціна**: 2&nbsp;ОМ • **Доступність**: 100
+
+---
+
+- **ПР**: 7 • **МІЦ**: 35 • **ПС**: 70
+- **Прозір** 3, **Сміливість** 0, **Снага** 0, **Вуж** 1
+
+---
+
+- **Вироби**: Дронівка, Мнемоніка, Оракули
+- **Риси морфа**: Цифрова швидкість, Екзотична морфологія (Рівень 3)
 
 </blockquote>
