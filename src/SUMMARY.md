@@ -12,7 +12,7 @@
   - [Як грати](./03/01-how-to-play.md)
   - [Типи перевірок](./03/02-types-of-tests.md)
   - [Дії та час](./03/03-actions-and-time.md)
-  - [Ініціатива та порядок дій](./03/04-initiative-and-action-order.md)
+  - [Ініціатива та порядок дій](./03/04-initiative-order-of-actions.md)
   - [Пули](./03/05-pools.md)
 - [Створення персонажів](./04/00-making-characters.md)
   - [Показники персонажів](./04/01-character-stats.md)
@@ -35,6 +35,11 @@
   - [Навички](./04/18-skills.md)
   - [Список Активних навичок](./04/19-active-skill-list.md)
   - [Навички Знання](./04/20-know-skills.md)
+  - [Морфи](./04/21-morphs.md)
+  - [Поширені біоморфи](./04/22-common-biomorphs.md)
+  - [Біоморфи-поди](./04/23-pod-biomorphs.md)
+  - [Біоморфи-піднесені](./04/24-uplift-biomorphs.md)
+  - [Синтморфи](./04/25-synthmorphs.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
