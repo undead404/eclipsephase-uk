@@ -23,3 +23,7 @@ enable = true
 [output.html.search]
 enable = false
 use-boolean-and = true
+
+[preprocessor.writer]
+enable = false
+command = "node writer.js"
