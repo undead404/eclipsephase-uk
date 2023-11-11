@@ -102,3 +102,4 @@
 - [Інфоморфи](../04/26-infomorphs.md)
 - [Пакети обладнання](../04/27-gear-packages.md)
 - [Риси](../04/28-traits.md)
+- [Приклад створення персонажа](../04/29-character-creation-example.md)

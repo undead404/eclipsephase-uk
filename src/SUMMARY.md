@@ -43,6 +43,14 @@
   - [Інфоморфи](./04/26-infomorphs.md)
   - [Пакети обладнання](./04/27-gear-packs.md)
   - [Риси](./04/28-traits.md)
+  - [Приклад створення персонажа](./04/29-character-creation-example.md)
+- [Зразкові персонажі](./05/00-sample-characters.md)
+- [Як так вийшло](./06/00-how-it-came-to-be.md)
+  - [Насування сингулярності](./06/01-slouching-towards-singularity.md)
+  - [Хронологія](./06/02-timeline.md)
+- [Прискорене майбутнє](./07/00-accelerated-future.md)
+  - [Після смерті](./07/01-beyond-death.md)
+  - [Нове життя](./07/02-new-life.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
