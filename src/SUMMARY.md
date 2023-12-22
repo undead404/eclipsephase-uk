@@ -52,6 +52,8 @@
   - [Після смерті](./07/01-beyond-death.md)
   - [Нове життя](./07/02-new-life.md)
   - [Інформаційне суспільство](./07/03-information-society.md)
+  - [Мозкозламування](./07/04-mind-hacking.md)
+  - [Космос та інші світи](./07/05-space-and-other-worlds.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
