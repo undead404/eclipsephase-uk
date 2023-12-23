@@ -25,5 +25,9 @@ enable = false
 use-boolean-and = true
 
 [preprocessor.writer]
-enable = false
-command = "node writer.js"
+enable = true
+command = "node scripts/writer/index.mjs"
+
+# [preprocessor.internal-links-checker]
+# enable = false
+# command = "node scripts/internal-links-checker/index.mjs"

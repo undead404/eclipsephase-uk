@@ -1,0 +1,1 @@
+import './internal-links-checker.mjs'
