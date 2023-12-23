@@ -55,6 +55,7 @@
   - [Мозкозламування](./07/04-mind-hacking.md)
   - [Космос та інші світи](./07/05-space-and-other-worlds.md)
   - [Поселення](./07/06-habitats.md)
+  - [Нанофабрикація](./07/07-nanofabrication.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
