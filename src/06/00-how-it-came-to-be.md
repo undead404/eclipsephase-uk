@@ -20,7 +20,7 @@
     - [Загроза автономістів](../06/01-slouching-towards-singularity.md#Загроза-автономістів)
     - [Втрачене покоління](../06/01-slouching-towards-singularity.md#Втрачене-покоління)
     - [Брами Пандори](../06/01-slouching-towards-singularity.md#Брами-Пандори)
-    - [Посередники](../06/01-slouching-towards-singularity.md#Посередники)
+    - [Комісіонери](../06/01-slouching-towards-singularity.md#Комісіонери)
     - [Вранішня зоря](../06/01-slouching-towards-singularity.md#Вранішня-зоря)
     - [Шлях вперед](../06/01-slouching-towards-singularity.md#Шлях-вперед)
 - [Хронологія](../06/02-timeline.md)
