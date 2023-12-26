@@ -59,6 +59,7 @@
 - [Транслюдська культура](./08/00-transhuman-culture.md)
   - [Страх і параноя](./08/01-fear-and-paranoia.md)
   - [Публічне та приватне життя](./08/02-public-and-private-life.md)
+  - [Спадок Землі](./08/03-earth-s-legacy.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
