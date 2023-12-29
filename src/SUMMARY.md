@@ -61,6 +61,7 @@
   - [Публічне та приватне життя](./08/02-public-and-private-life.md)
   - [Спадок Землі](./08/03-earth-s-legacy.md)
   - [Культура та клади](./08/04-culture-and-clades.md)
+  - [Транслюдська сексуальність](./08/05-transhuman-sexuality.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
