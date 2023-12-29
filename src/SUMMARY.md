@@ -60,6 +60,7 @@
   - [Страх і параноя](./08/01-fear-and-paranoia.md)
   - [Публічне та приватне життя](./08/02-public-and-private-life.md)
   - [Спадок Землі](./08/03-earth-s-legacy.md)
+  - [Культура та клади](./08/04-culture-and-clades.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
