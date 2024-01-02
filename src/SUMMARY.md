@@ -62,6 +62,7 @@
   - [Спадок Землі](./08/03-earth-s-legacy.md)
   - [Культура та клади](./08/04-culture-and-clades.md)
   - [Транслюдська сексуальність](./08/05-transhuman-sexuality.md)
+  - [Родина та діти](./08/06-family-and-children.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
