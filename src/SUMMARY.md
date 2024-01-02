@@ -63,6 +63,7 @@
   - [Культура та клади](./08/04-culture-and-clades.md)
   - [Транслюдська сексуальність](./08/05-transhuman-sexuality.md)
   - [Родина та діти](./08/06-family-and-children.md)
+  - [ЗМІ та розваги](./08/07-media-and-entertainment.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
