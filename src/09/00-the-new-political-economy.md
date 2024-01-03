@@ -2,11 +2,11 @@
 
 <!-- TOC PLACEHOLDER -->
 
-- [The System Split](../09/01-the-system-split.md)
-  - [The Inner System](../09/01-the-system-split.md#the-inner-system)
-  - [The Outer System](../09/01-the-system-split.md#the-outer-system)
-  - [Jovian Republic](../09/01-the-system-split.md#jovian-republic)
-  - [State of the System](../09/01-the-system-split.md#state-of-the-system)
+- [Розкол системи](../09/01-the-system-split.md)
+  - [Внутрішня система](../09/01-the-system-split.md#Внутрішня-система)
+  - [Зовнішня система](../09/01-the-system-split.md#Зовнішня-система)
+  - [Юпітерська республіка](../09/01-the-system-split.md#Юпітерська-республіка)
+  - [Стан всієї системи](../09/01-the-system-split.md#Стан-всієї-системи)
 - [Market Economies](../09/02-market-economies.md)
   - [Old Market Systems](../09/02-market-economies.md#old-market-systems)
   - [Transitional Economies](../09/02-market-economies.md#transitional-economies)
