@@ -64,6 +64,7 @@
   - [Транслюдська сексуальність](./08/05-transhuman-sexuality.md)
   - [Родина та діти](./08/06-family-and-children.md)
   - [ЗМІ та розваги](./08/07-media-and-entertainment.md)
+- [Нова політична економія](./09/00-the-new-political-economy.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
