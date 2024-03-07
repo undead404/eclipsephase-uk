@@ -66,6 +66,7 @@
   - [ЗМІ та розваги](./08/07-media-and-entertainment.md)
 - [Нова політична економія](./09/00-the-new-political-economy.md)
   - [Розкол системи](./09/01-the-system-split.md)
+  - [Ринкові економіки](./09/02-market-economies.md)
 - [Глосарій](./19/01-glossary.md)
 
 ---
