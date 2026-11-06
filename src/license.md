@@ -5,7 +5,13 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 The work is derivative of **Eclipse Phase** with attribution to **Posthuman Studios**.
 
-Markdown formatting and adaptation done by Luiz Borges Gomide.
+Markdown formatting and adaptation done by Luiz Borges Gomide in [EclipsePhase2e-ptbr](https://github.com/luizbgomide/EclipsePhase2e-ptbr), the source of this fork.
+
+## Українське видання
+
+Частковий український переклад і адаптація — [Vitalii Perehonchuk (undead404)](https://undead404.github.io).
+
+У цьому відгалуженні англійську та португальську (pt_BR) мовні версії замінено частковим українським перекладом. Український переклад і адаптація поширюються за тією самою ліцензією [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Full List of Credits
 
