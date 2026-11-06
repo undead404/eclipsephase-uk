@@ -1,7 +1,6 @@
 [book]
 authors = ["Vitalii Perehonchuk"]
 language = "uk"
-multilingual = false
 src = "src"
 title = "Фаза затемнення – Eclipse Phase українською"
 
