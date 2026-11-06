@@ -1,6 +1,6 @@
 #!make
 
-.PHONY: deploy prepare
+.PHONY: deploy prepare serve
 ifneq (,$(wildcard ./.env))
     include .env
     export
@@ -8,6 +8,9 @@ endif
 
 book: ep2e.css book.toml scripts src
 	mdbook build
+
+serve:
+	mdbook serve --open
 
 clean:
 	rm -rf book
