@@ -10,6 +10,7 @@ title = "Фаза затемнення – Eclipse Phase українською"
 create-missing = false
 
 [output.html]
+site-url = "/eclipsephase-uk/"
 additional-css = ["ep2e.css"]
 no-section-label = false
 git-repository-url = "https://github.com/undead404/eclipsephase-uk"
