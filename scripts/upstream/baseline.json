@@ -1,0 +1,295 @@
+{
+  "repository": "luizbgomide/EclipsePhase2e-ptbr",
+  "branch": "main",
+  "commit": "1be72468599dab5c442758923dcb2b92ed8a530e",
+  "files": {
+    "src/01/00-infamy.md": {
+      "source": "src/01/00-infamy.md",
+      "blob": "00310c9bf89b37d19b5ec92134e49b0ca743fee0"
+    },
+    "src/02/00-starting-out.md": {
+      "source": "src/02/00-starting-out.md",
+      "blob": "5ef14eeaa04fdcf5c0ba4a65a90bee522ea81823"
+    },
+    "src/02/01-what-is-ep.md": {
+      "source": "src/02/01-what-is-ep.md",
+      "blob": "b38aca31e93aa984bd7f9b6afde28c2563ea4ddd"
+    },
+    "src/02/02-core-concepts.md": {
+      "source": "src/02/02-core-concepts.md",
+      "blob": "1e37972fe1cfbd76e94246002bb254a49e0976b8"
+    },
+    "src/02/03-themes.md": {
+      "source": "src/02/03-themes.md",
+      "blob": "96964d6b0020f28709a98793f06f9d8a1cfccda1"
+    },
+    "src/02/04-core-campaigns.md": {
+      "source": "src/02/04-core-campaigns.md",
+      "blob": "994bc5c678b0a8c3b348ab14709211c231284a47"
+    },
+    "src/02/05-character-archetypes.md": {
+      "source": "src/02/05-character-archetypes.md",
+      "blob": "9145d9c4ecff60f0bf7d285fa8bba5fe4b315392"
+    },
+    "src/02/06-setting-overview.md": {
+      "source": "src/02/06-setting-overview.md",
+      "blob": "406c5d2ae1c607723f4bd8bed60f5070b2ea6804"
+    },
+    "src/03/00-game-mechanics.md": {
+      "source": "src/03/00-game-mechanics.md",
+      "blob": "2dc4dcff7d79397df4664fd7d77df87bf1f8ac42"
+    },
+    "src/03/01-how-to-play.md": {
+      "source": "src/03/01-how-to-play.md",
+      "blob": "17b3bf92082314462c5901d3bf14a6a188a11153"
+    },
+    "src/03/02-types-of-tests.md": {
+      "source": "src/03/02-types-of-tests.md",
+      "blob": "5e8861f67307ad610a4d684d67761b6e9574e48c"
+    },
+    "src/03/03-actions-and-time.md": {
+      "source": "src/03/03-actions-and-time.md",
+      "blob": "73cb91cb45c6705bef68d005fb0cd9396cb82b7a"
+    },
+    "src/03/04-initiative-order-of-actions.md": {
+      "source": "src/03/04-initiative-order-of-actions.md",
+      "blob": "a4c1d39cb5c8fb5a45337fd60656b1acf4da422f"
+    },
+    "src/03/05-pools.md": {
+      "source": "src/03/05-pools.md",
+      "blob": "acb6ae2d19c00e1b727c3fa1baa8b39a60e8234f"
+    },
+    "src/04/00-making-characters.md": {
+      "source": "src/04/00-making-characters.md",
+      "blob": "b87ce4670459000878e5183c8e077f219e1293ff"
+    },
+    "src/04/01-character-stats.md": {
+      "source": "src/04/01-character-stats.md",
+      "blob": "a188dbc2bd8aa29f3d7506836ea399e8e2513434"
+    },
+    "src/04/02-character-creation-overview.md": {
+      "source": "src/04/02-character-creation-overview.md",
+      "blob": "bc310c548fda0a6fee8708ab674a323c0bb874e8"
+    },
+    "src/04/03-character-creation-advice.md": {
+      "source": "src/04/03-character-creation-advice.md",
+      "blob": "c631e9c69e7d43d61651643176a049e2e770020a"
+    },
+    "src/04/04-step-1-background.md": {
+      "source": "src/04/04-step-1-background.md",
+      "blob": "1092e6b49f4de0113235c7a7d78374ca0f2bb32a"
+    },
+    "src/04/05-step-2-carrer.md": {
+      "source": "src/04/05-step-2-career.md",
+      "blob": "f5141426b5522a0539aba5bcf359252794aee6f6"
+    },
+    "src/04/06-step-3-interest.md": {
+      "source": "src/04/06-step-3-interest.md",
+      "blob": "864e3759a9f54ae4bd6203acd2eb70cfa055f710"
+    },
+    "src/04/07-step-4-faction.md": {
+      "source": "src/04/07-step-4-faction.md",
+      "blob": "f99449ec397c055ec35e4491db409ee320f0fe05"
+    },
+    "src/04/08-step-5-aptitude-template.md": {
+      "source": "src/04/08-step-5-aptitude-template.md",
+      "blob": "e00c3172701962c0aab35cbd317794e9d73ef2d0"
+    },
+    "src/04/09-step-6-total-skills.md": {
+      "source": "src/04/09-step-6-total-skills.md",
+      "blob": "dda5c4e0de8f76ef0b443d8ed5bf5f2ffeba724b"
+    },
+    "src/04/10-step-7-languages.md": {
+      "source": "src/04/10-step-7-languages.md",
+      "blob": "0a9e0bbb9d76590e054845f120684986d00c2a99"
+    },
+    "src/04/11-step-8-flex.md": {
+      "source": "src/04/11-step-8-flex.md",
+      "blob": "7ac0f5736750071ad113d82c5dded7ec64648e11"
+    },
+    "src/04/12-step-9-reputation.md": {
+      "source": "src/04/12-step-9-reputation.md",
+      "blob": "62d1790af446ba69d693a9fd3e83eb46840b8944"
+    },
+    "src/04/13-step-10-customization.md": {
+      "source": "src/04/13-step-10-customization.md",
+      "blob": "d24ac0a2d7a1e1741f91978b0eade98402faf4ff"
+    },
+    "src/04/14-step-11-derived-stats.md": {
+      "source": "src/04/14-step-11-derived-stats.md",
+      "blob": "afa66f75d4f1a050ccb7e53a156dd1e3c659d77c"
+    },
+    "src/04/15-step-12-starting-morph-gear.md": {
+      "source": "src/04/15-step-12-starting-morph-gear.md",
+      "blob": "6d5bd86d828ef346844b0d04daf8bfcb1b563437"
+    },
+    "src/04/16-step-13-motivations.md": {
+      "source": "src/04/16-step-13-motivations.md",
+      "blob": "71ad6d2a14aba01bda60084f0c78d1089b17ff1b"
+    },
+    "src/04/17-final-touches.md": {
+      "source": "src/04/17-final-touches.md",
+      "blob": "739187284c85d198e74ba268b8631a6a36c14786"
+    },
+    "src/04/18-skills.md": {
+      "source": "src/04/18-skills.md",
+      "blob": "301cd05c52926f8b0419a01214e51f3f0430feb5"
+    },
+    "src/04/19-active-skill-list.md": {
+      "source": "src/04/19-active-skill-list.md",
+      "blob": "2a54b763dd5da7f3c2ee4f06f56c6dcbda034bdc"
+    },
+    "src/04/20-know-skills.md": {
+      "source": "src/04/20-know-skills.md",
+      "blob": "9347591069e9dee19e6a11c2cda449adcc309d17"
+    },
+    "src/04/21-morphs.md": {
+      "source": "src/04/21-morphs.md",
+      "blob": "2c8470a56f7433204856e4a0c573af4157c0460c"
+    },
+    "src/04/22-common-biomorphs.md": {
+      "source": "src/04/22-common-biomorphs.md",
+      "blob": "6930e2000d78e74b8dcde89015e091f60e52c238"
+    },
+    "src/04/23-pod-biomorphs.md": {
+      "source": "src/04/23-pod-biomorphs.md",
+      "blob": "5c543a04bb1be156c17e2ed63ee0b1e88604f9c0"
+    },
+    "src/04/24-uplift-biomorphs.md": {
+      "source": "src/04/24-uplift-biomorphs.md",
+      "blob": "40bc7e2f06e75054689cb8b2b18e273d1981ad98"
+    },
+    "src/04/25-synthmorphs.md": {
+      "source": "src/04/25-synthmorphs.md",
+      "blob": "fadba9031041c63437e5c93d2fa4bd1d3f879564"
+    },
+    "src/04/26-infomorphs.md": {
+      "source": "src/04/26-infomorphs.md",
+      "blob": "221f5e586217eaeceb6a7ac8a969f17f101d0c67"
+    },
+    "src/04/27-gear-packs.md": {
+      "source": "src/04/27-gear-packs.md",
+      "blob": "11d938e81b0b3b0ed391b322fc38945ecaeee71d"
+    },
+    "src/04/28-traits.md": {
+      "source": "src/04/28-traits.md",
+      "blob": "f9ee66c89ad90d75ce82316f4dd958b8647be462"
+    },
+    "src/04/29-character-creation-example.md": {
+      "source": "src/04/29-character-creation-example.md",
+      "blob": "e41ce6b5392969c4adb53de6d6c7666e9c9a9fd4"
+    },
+    "src/05/00-sample-characters.md": {
+      "source": "src/05/00-sample-characters.md",
+      "blob": "82ddff7f0033c30e66cc8f16225c2f340e295723"
+    },
+    "src/06/00-how-it-came-to-be.md": {
+      "source": "src/06/00-how-it-came-to-be.md",
+      "blob": "08cebae40dbff7dbb60e14618275f146587380cf"
+    },
+    "src/06/01-slouching-towards-singularity.md": {
+      "source": "src/06/01-slouching-towards-singularity.md",
+      "blob": "273f78a33788d5c4694d8a1a43e6b1b5b26474d1"
+    },
+    "src/06/02-timeline.md": {
+      "source": "src/06/02-timeline.md",
+      "blob": "3cf51aa6fbbc45a82586518ad6a732e22bb0ef67"
+    },
+    "src/07/00-accelerated-future.md": {
+      "source": "src/07/00-accelerated-future.md",
+      "blob": "e6dd78b4faca8e4e8c9f49d70d9c3e21965317e1"
+    },
+    "src/07/01-beyond-death.md": {
+      "source": "src/07/01-beyond-death.md",
+      "blob": "162aa849b801545f63bdffa8f8a0f48989cc6577"
+    },
+    "src/07/02-new-life.md": {
+      "source": "src/07/02-new-life.md",
+      "blob": "a370b369692a50e8cfd7f8102440385b24cda23b"
+    },
+    "src/07/03-information-society.md": {
+      "source": "src/07/03-information-society.md",
+      "blob": "9262b5913f1f0a5321e57d9b9b5e3dc6c21e6874"
+    },
+    "src/07/04-mind-hacking.md": {
+      "source": "src/07/04-mind-hacking.md",
+      "blob": "4bc98055c012f179a42144ad7d69df0bffd4b0c2"
+    },
+    "src/07/05-space-and-other-worlds.md": {
+      "source": "src/07/05-space-and-other-worlds.md",
+      "blob": "82e887858efa93c7612e6ab76b3e3efe24013fb4"
+    },
+    "src/07/06-habitats.md": {
+      "source": "src/07/06-habitats.md",
+      "blob": "70076b2638ff589035bf0b8204034611c0feb601"
+    },
+    "src/07/07-nanofabrication.md": {
+      "source": "src/07/07-nanofabrication.md",
+      "blob": "8ff94ebfedf76757ffeef9dfdca73eda821c5374"
+    },
+    "src/08/00-transhuman-culture.md": {
+      "source": "src/08/00-transhuman-culture.md",
+      "blob": "3432a3bc06d07d96ff4d50d0871c0d083cfa8e3f"
+    },
+    "src/08/01-fear-and-paranoia.md": {
+      "source": "src/08/01-fear-and-paranoia.md",
+      "blob": "60564426335ec89f14a5d368419510d738f5e631"
+    },
+    "src/08/02-public-and-private-life.md": {
+      "source": "src/08/02-public-and-private-life.md",
+      "blob": "ff23d84d0b22baa272ac21d3ab3616440322ae0d"
+    },
+    "src/08/03-earth-s-legacy.md": {
+      "source": "src/08/03-earth-s-legacy.md",
+      "blob": "53be32964b81201bbb75001624adf65331cf688b"
+    },
+    "src/08/04-culture-and-clades.md": {
+      "source": "src/08/04-culture-and-clades.md",
+      "blob": "0b872b7bb4634d7c9e35cbc0a526ed70881e4550"
+    },
+    "src/08/05-transhuman-sexuality.md": {
+      "source": "src/08/05-transhuman-sexuality.md",
+      "blob": "02bee86352c599d62d6566555fa4b19d2275e3ba"
+    },
+    "src/08/06-family-and-children.md": {
+      "source": "src/08/06-family-and-children.md",
+      "blob": "e269d5014d80c7fe46ccd9aa63d053c54d69eae8"
+    },
+    "src/08/07-media-and-entertainment.md": {
+      "source": "src/08/07-media-and-entertainment.md",
+      "blob": "dbadb44b49adc0ffb94d023067c4a8f8e93f1140"
+    },
+    "src/09/00-the-new-political-economy.md": {
+      "source": "src/09/00-the-new-political-economy.md",
+      "blob": "8f3b9320497d80959babecd870c038d2ee64ac04"
+    },
+    "src/09/01-the-system-split.md": {
+      "source": "src/09/01-the-system-split.md",
+      "blob": "162f451fb88751976b64a2ca91c82bed8983cb34"
+    },
+    "src/09/02-market-economies.md": {
+      "source": "src/09/02-market-economies.md",
+      "blob": "53725876d96417fed5a6c5d60e3a4872b0294204"
+    },
+    "src/19/01-glossary.md": {
+      "source": "src/19/01-glossary.md",
+      "blob": "3ec29eb82755560d4ef4bfa2b3435f985d8d155e"
+    },
+    "src/SUMMARY.md": {
+      "source": "src/SUMMARY.md",
+      "blob": "01ee8f5ecf0d2ad8f2cf0d9ce4ce4dd6699fb38a"
+    },
+    "src/buy-the-book.md": {
+      "source": "src/buy-the-book.md",
+      "blob": "d23989de35630af6432d88e71bb274e66062650b"
+    },
+    "src/license.md": {
+      "source": "src/license.md",
+      "blob": "cbc9e20f53ea9f8650d885957533d0eea75323b9"
+    },
+    "ep2e.css": {
+      "source": "ep2e.css",
+      "blob": "837070cdc7bd71f065d59664fd8160b1ab031d31"
+    }
+  }
+}
