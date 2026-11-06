@@ -1,6 +1,6 @@
 #!make
 
-.PHONY: deploy prepare serve
+.PHONY: prepare serve clean rebuild
 ifneq (,$(wildcard ./.env))
     include .env
     export
@@ -15,11 +15,8 @@ serve:
 clean:
 	rm -rf book
 
-deploy: book
-	npx surge --project book --domain https://eclipsephase-uk.surge.sh
-
 prepare:
 	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-	cargo install mdbook
+	cargo install mdbook --version 0.4.52 --locked
 
 rebuild: clean book

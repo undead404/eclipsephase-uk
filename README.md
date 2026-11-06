@@ -2,6 +2,8 @@
 
 Український переклад Eclipse Phase, друга редакція. Форматування та вихідні матеріали взято з [EclipsePhase2e-ptbr](https://github.com/luizbgomide/EclipsePhase2e-ptbr). Оригінальна гра — Posthuman Studios. Ліцензія: [CC BY-NC-SA 4.0](LICENSE).
 
+Читати онлайн: [Фаза затемнення українською](https://undead404.github.io/eclipsephase-uk/).
+
 ## Збирання
 
 Потрібні Node.js 22 та mdBook 0.4.52 (та сама версія, що й у GitHub Pages):
@@ -10,6 +12,12 @@
 cargo install mdbook --version 0.4.52 --locked
 make book
 ```
+
+## Публікація
+
+GitHub Actions автоматично збирає та публікує сайт на GitHub Pages після push у гілку `main`. Для повторної публікації можна вручну запустити workflow `Publish book` у вкладці Actions репозиторію. У налаштуваннях репозиторію **Settings → Pages → Source** має бути вибрано **GitHub Actions**.
+
+Базовий шлях сайту в `book.toml` — `/eclipsephase-uk/`. Локальний перегляд: `make serve`.
 
 ## Оновлення джерела
 
