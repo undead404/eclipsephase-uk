@@ -17,6 +17,6 @@ clean:
 
 prepare:
 	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-	cargo install mdbook --version 0.4.52 --locked
+	cargo install mdbook --version 0.5.4 --locked
 
 rebuild: clean book

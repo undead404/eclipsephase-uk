@@ -28,7 +28,7 @@ jobs:
           node-version: "22"
 
       - name: Install mdBook
-        run: cargo install mdbook --version "0.4.52" --locked
+        run: cargo install mdbook --version "0.5.4" --locked
 
       - name: Build book
         run: mdbook build

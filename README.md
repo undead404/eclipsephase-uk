@@ -6,10 +6,10 @@
 
 ## Збирання
 
-Потрібні Node.js 22 та mdBook 0.4.52 (та сама версія, що й у GitHub Pages):
+Потрібні Node.js 22 та mdBook 0.5.4 (та сама версія, що й у GitHub Pages):
 
 ```sh
-cargo install mdbook --version 0.4.52 --locked
+cargo install mdbook --version 0.5.4 --locked
 make book
 ```
 
