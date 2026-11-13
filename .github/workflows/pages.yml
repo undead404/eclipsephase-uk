@@ -31,7 +31,7 @@ jobs:
         run: cargo install mdbook --version "0.5.4" --locked
 
       - name: Build book
-        run: mdbook build
+        run: make book
 
       - uses: actions/configure-pages@v5
 

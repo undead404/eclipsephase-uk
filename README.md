@@ -15,6 +15,8 @@ cargo install mdbook --version 0.5.4 --locked
 make book
 ```
 
+`make book` також створює `book/sitemap.xml` з актуального списку розділів. Після публікації мапа сайту доступна за адресою <https://undead404.github.io/eclipsephase-uk/sitemap.xml>. Сторінки 404, зміст для інтерфейсу та повна версія для друку до неї не входять.
+
 ## Публікація
 
 GitHub Actions автоматично збирає та публікує сайт на GitHub Pages після push у гілку `main`. Для повторної публікації можна вручну запустити workflow `Publish book` у вкладці Actions репозиторію. У налаштуваннях репозиторію **Settings → Pages → Source** має бути вибрано **GitHub Actions**.

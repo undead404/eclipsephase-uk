@@ -1,6 +1,6 @@
 #!make
 
-.PHONY: prepare serve clean rebuild
+.PHONY: prepare serve clean rebuild book
 ifneq (,$(wildcard ./.env))
     include .env
     export
@@ -8,6 +8,7 @@ endif
 
 book: ep2e.css book.toml scripts src
 	mdbook build
+	node scripts/sitemap.mjs
 
 serve:
 	mdbook serve --open
