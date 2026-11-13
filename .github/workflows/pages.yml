@@ -17,6 +17,8 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      MDBOOK_VERSION: "0.5.4"
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -29,8 +31,16 @@ jobs:
         with:
           node-version: "22"
 
+      - name: Cache mdBook
+        id: cache-mdbook
+        uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin/mdbook
+          key: ${{ runner.os }}-${{ runner.arch }}-mdbook-${{ env.MDBOOK_VERSION }}-v1
+
       - name: Install mdBook
-        run: cargo install mdbook --version "0.5.4" --locked
+        if: steps.cache-mdbook.outputs.cache-hit != 'true'
+        run: cargo install mdbook --version "$MDBOOK_VERSION" --locked
 
       - name: Build book
         run: make book
